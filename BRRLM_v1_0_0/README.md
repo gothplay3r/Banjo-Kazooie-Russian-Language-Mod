@@ -1,14 +1,17 @@
 # Russian Language Mod
 
-A port of the Russian fan localization of Banjo-Kazooie for Banjo: Recompiled.
-The original Russian fan localization was created by KenshinX / Chief-Net © 2013
+Порт русской фанатской локализации Banjo-Kazooie для Banjo: Recompiled.
+Оригинальная русская локализация была создана KenshinX / Chief-Net © 2013
 
-* Requires Asset Expansion Pak.
-* Includes two selectable font styles: HD and Classic. HD is enabled by default; to select Classic, open /Configure/. Third-party HD texture packs are recommended for the HD variant.
-* The in-game text was recreated from scratch based on the original Russian localization, because it could not be directly transferred. All text is in Russian and has been carefully checked.
-* This is the first public release, so bugs may be present.
+* Требуется Asset Expansion Pak.
+* Полная перекодировка русской локализации с PAL на NTSC-U.
+* Доступны два варианта шрифта: HD и Classic. По умолчанию включён HD. Чтобы выбрать Classic, откройте меню Configure.
+* Для HD-варианта также рекомендуется использовать сторонние паки HD текстур, например BKHD Loulof.
+* Весь внутриигровой текст был воссоздан с нуля на основе оригинальной русской локализации, так как напрямую перенести его было невозможно. Текст полностью на русском языке и тщательно проверен.
+* Чтобы избежать вылетов, текстура викторины была оставлена на английском, а один из вопросов был сделан статичным.
+* Это первый публичный релиз, поэтому возможны ошибки. Однако большинство критических багов уже успешно исправлено, и игра полностью проходима.
 
-## Screenshots
+## Скриншоты
 
 ![Screenshot 1](screenshots/1.png)
 ![Screenshot 2](screenshots/2.png)
