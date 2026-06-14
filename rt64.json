@@ -1,0 +1,2747 @@
+{
+    "configuration": {
+        "autoPath": "rice",
+        "configurationVersion": 3,
+        "defaultOperation": "preload",
+        "defaultShift": "none",
+        "hashVersion": 5
+    },
+    "textures": [
+        {
+            "hashes": {
+                "rice": "c6e996d1#0#3",
+                "rt64": "6e8d6a91d6f26b1f"
+            },
+            "path": "Banjo-Kazooie#C6E996D1#0#3_all",
+            "operation": "preload",
+            "shift": "half"
+        },
+        {
+            "hashes": {
+                "rice": "7b7ce462#0#3",
+                "rt64": "3432d6a60391c4db"
+            },
+            "path": "Banjo-Kazooie#7B7CE462#0#3_all",
+            "operation": "preload",
+            "shift": "half"
+        },
+        {
+            "hashes": {
+                "rice": "d33cd79a#0#3",
+                "rt64": "66930d251a0c3ec9"
+            },
+            "path": "Banjo-Kazooie#D33CD79A#0#3_all",
+            "operation": "preload",
+            "shift": "half"
+        },
+        {
+            "hashes": {
+                "rice": "90bfb7be#0#3",
+                "rt64": "115a2ea8b258cfcc"
+            },
+            "path": "Banjo-Kazooie#90BFB7BE#0#3_all",
+            "operation": "preload",
+            "shift": "half"
+        },
+        {
+            "hashes": {
+                "rice": "9e65835b#0#3",
+                "rt64": "58cbf286ccdfc4d0"
+            },
+            "path": "Banjo-Kazooie#9E65835B#0#3_all",
+            "operation": "preload",
+            "shift": "half"
+        },
+        {
+            "hashes": {
+                "rice": "df9b2800#0#3",
+                "rt64": "9594db66344ab26e"
+            },
+            "path": "Banjo-Kazooie#DF9B2800#0#3_all",
+            "operation": "preload",
+            "shift": "half"
+        },
+        {
+            "hashes": {
+                "rice": "0577a51e#0#3",
+                "rt64": "498bd759726a9a70"
+            },
+            "path": "Banjo-Kazooie#0577A51E#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "277ffbf6#0#3",
+                "rt64": "6fbd71fce1f7cb5e"
+            },
+            "path": "Banjo-Kazooie#277FFBF6#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "300d020e#0#3",
+                "rt64": "b81b03858ee5fc99"
+            },
+            "path": "Banjo-Kazooie#300D020E#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "4761a579#0#3",
+                "rt64": "67d4813f40186cf8"
+            },
+            "path": "Banjo-Kazooie#4761A579#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "51930352#0#3",
+                "rt64": "f800ba8901c48ede"
+            },
+            "path": "Banjo-Kazooie#51930352#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "60fc9290#0#3",
+                "rt64": "e232d56a86fd99ba"
+            },
+            "path": "Banjo-Kazooie#60FC9290#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "618b675e#0#3",
+                "rt64": "e93e821037a4b767"
+            },
+            "path": "Banjo-Kazooie#618B675E#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "64c091de#0#3",
+                "rt64": "488c03345908039b"
+            },
+            "path": "Banjo-Kazooie#64C091DE#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "651eb6e5#0#3",
+                "rt64": "c642fac7d4250c0e"
+            },
+            "path": "Banjo-Kazooie#651EB6E5#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "670a52d4#0#3",
+                "rt64": "35dd5bce05cdf0b8"
+            },
+            "path": "Banjo-Kazooie#670A52D4#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "6b10165c#0#3",
+                "rt64": "544dfc6390cb88c2"
+            },
+            "path": "Banjo-Kazooie#6B10165C#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "81a5325c#0#3",
+                "rt64": "5a9cea22fa39c831"
+            },
+            "path": "Banjo-Kazooie#81A5325C#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "8871f779#0#3",
+                "rt64": "0dd5ab814176c3a0"
+            },
+            "path": "Banjo-Kazooie#8871F779#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "91fffb63#0#3",
+                "rt64": "7749e12cf2cbdfcd"
+            },
+            "path": "Banjo-Kazooie#91FFFB63#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "955de7b1#0#3",
+                "rt64": "0ef9cb2dbef3cccf"
+            },
+            "path": "Banjo-Kazooie#955DE7B1#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "9562eca9#0#3",
+                "rt64": "da2b32ad1e7efcce"
+            },
+            "path": "Banjo-Kazooie#9562ECA9#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "a4a0c661#0#3",
+                "rt64": "33baad493600b0ca"
+            },
+            "path": "Banjo-Kazooie#A4A0C661#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "a5599086#0#3",
+                "rt64": "ff837fefe11c432f"
+            },
+            "path": "Banjo-Kazooie#A5599086#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "b3b840ea#0#3",
+                "rt64": "94ac474dda7431a0"
+            },
+            "path": "Banjo-Kazooie#B3B840EA#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "c549e086#0#3",
+                "rt64": "0e50a09771542e49"
+            },
+            "path": "Banjo-Kazooie#C549E086#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "ebacd2b8#0#3",
+                "rt64": "65bb68e0c3c787f9"
+            },
+            "path": "Banjo-Kazooie#EBACD2B8#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "ef3388f6#0#3",
+                "rt64": "99702c567aef9a3b"
+            },
+            "path": "Banjo-Kazooie#EF3388F6#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "f0478f9c#0#3",
+                "rt64": "d57cb895c00d6d39"
+            },
+            "path": "Banjo-Kazooie#F0478F9C#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "f3565c98#0#3",
+                "rt64": "60129b36e1ee50e9"
+            },
+            "path": "Banjo-Kazooie#F3565C98#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "f3a73036#0#3",
+                "rt64": "40bd069d0f72d99a"
+            },
+            "path": "Banjo-Kazooie#F3A73036#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rice": "fac15d2e#0#3",
+                "rt64": "7d987dc5aade0b15"
+            },
+            "path": "Banjo-Kazooie#FAC15D2E#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "ccfc4b132ce15293"
+            },
+            "path": "Banjo-Kazooie#01509BBD#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "b789376e69377d4c"
+            },
+            "path": "Banjo-Kazooie#354B2C16#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "d8e7529a3a98c7fa"
+            },
+            "path": "Banjo-Kazooie#4C987698#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "54aa8ae95faafeb5"
+            },
+            "path": "Banjo-Kazooie#6B8C6796#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "b88ffe4391329ffb"
+            },
+            "path": "Banjo-Kazooie#6D2578E0#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "11a32416b3c8b847"
+            },
+            "path": "Banjo-Kazooie#8E5ADC71#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "523e4938e4158afb"
+            },
+            "path": "Banjo-Kazooie#07A311E5#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "abb0decc1ef99c05"
+            },
+            "path": "Banjo-Kazooie#21F052EE#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "4dd9caec3150af37"
+            },
+            "path": "Banjo-Kazooie#3F18C864#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "99e810dc9f7a68a5"
+            },
+            "path": "Banjo-Kazooie#61626B61#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "1779f154432c4601"
+            },
+            "path": "Banjo-Kazooie#D0ED2056#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "8b177acc308ab55b"
+            },
+            "path": "Banjo-Kazooie#E362B3E9#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "10daa72ba0a2eeda"
+            },
+            "path": "Banjo-Kazooie#13847493#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "391a283422bb2c94"
+            },
+            "path": "Banjo-Kazooie#24F7E8D7#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "7c72f2e76851895a"
+            },
+            "path": "Banjo-Kazooie#9021B899#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "0f74ab37785dc6c7"
+            },
+            "path": "Banjo-Kazooie#9747D5E7#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c00c806b7a96bffd"
+            },
+            "path": "Banjo-Kazooie#A4E6BF7C#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "7dd297e63959077b"
+            },
+            "path": "Banjo-Kazooie#ABCDFEBF#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "b7f7ef07ab39d61a"
+            },
+            "path": "Banjo-Kazooie#1BF6605F#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "db01941061cfc877"
+            },
+            "path": "Banjo-Kazooie#57845C6B#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "8824e5bad64626a9"
+            },
+            "path": "Banjo-Kazooie#703414DB#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c172810e61c795b5"
+            },
+            "path": "Banjo-Kazooie#7B011A4A#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "f33d843f86707ecf"
+            },
+            "path": "Banjo-Kazooie#C7C35850#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "105b0c201251802b"
+            },
+            "path": "Banjo-Kazooie#F132B604#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c8a4e3a780b9343e"
+            },
+            "path": "Banjo-Kazooie#17F38925#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "e1314dcdab590be8"
+            },
+            "path": "Banjo-Kazooie#27E348A3#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "1ddc23997937e386"
+            },
+            "path": "Banjo-Kazooie#2BFA9207#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "acf2cfa0b8e1ea27"
+            },
+            "path": "Banjo-Kazooie#2D4D7494#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "662434feb083938f"
+            },
+            "path": "Banjo-Kazooie#A28CE31B#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "97d45abd5e57cfeb"
+            },
+            "path": "Banjo-Kazooie#FCCE3253#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "896f458ea860bb41"
+            },
+            "path": "Banjo-Kazooie#030530A4#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "f65ded9d9c8e1897"
+            },
+            "path": "Banjo-Kazooie#87294B69#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "9f3ebc2a5e72aad4"
+            },
+            "path": "Banjo-Kazooie#B08B1EEA#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "506db7b3847713d1"
+            },
+            "path": "Banjo-Kazooie#B35DB1CD#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a0c587e789d121ed"
+            },
+            "path": "Banjo-Kazooie#EB19BD0C#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c5e3eb6bfbb3fe52"
+            },
+            "path": "Banjo-Kazooie#F12DDF6C#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "2c990cb2f31ba7ce"
+            },
+            "path": "Banjo-Kazooie#0B361635#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "e7b37ff76ba8e1ee"
+            },
+            "path": "Banjo-Kazooie#4ABFD8C8#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "630a6333c9d913b5"
+            },
+            "path": "Banjo-Kazooie#B49C65ED#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "f436defda4ba00ea"
+            },
+            "path": "Banjo-Kazooie#B8E82FE1#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "babce716bb3e8366"
+            },
+            "path": "Banjo-Kazooie#CDDE7233#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "00aa124702228a45"
+            },
+            "path": "Banjo-Kazooie#E9C605A9#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "f3fd108bbcbf512b"
+            },
+            "path": "Banjo-Kazooie#0F3D2946#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "6e6fa9ab68d4ab88"
+            },
+            "path": "Banjo-Kazooie#1B8E9F14#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "5ca6766177c47ab6"
+            },
+            "path": "Banjo-Kazooie#2DFC578E#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "511b92bf814b7ab4"
+            },
+            "path": "Banjo-Kazooie#4A8C2124#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "aacab0bec6192343"
+            },
+            "path": "Banjo-Kazooie#8E11F970#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a551c18e49a600a0"
+            },
+            "path": "Banjo-Kazooie#F5217B07#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "affaa4987af00917"
+            },
+            "path": "Banjo-Kazooie#1DBE85DE#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "10f3e05bd23f8d46"
+            },
+            "path": "Banjo-Kazooie#231DF47B#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "2c7cf1ee8afa912b"
+            },
+            "path": "Banjo-Kazooie#25045FE8#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "539f93855cd97b93"
+            },
+            "path": "Banjo-Kazooie#2EC0CA5C#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "e2f967cd9c286186"
+            },
+            "path": "Banjo-Kazooie#74B820A3#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "4d499d6f2a211988"
+            },
+            "path": "Banjo-Kazooie#C755C78D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "21b9e710f0da7602"
+            },
+            "path": "Banjo-Kazooie#05DD2EB5#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "f0ddbd282dcd054f"
+            },
+            "path": "Banjo-Kazooie#263F30AB#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "5db13e13c43688ab"
+            },
+            "path": "Banjo-Kazooie#55585306#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "73476954df011924"
+            },
+            "path": "Banjo-Kazooie#89D0FC7A#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "aee870e8fdb8c409"
+            },
+            "path": "Banjo-Kazooie#A152087B#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "17c647a6a2ae31a4"
+            },
+            "path": "Banjo-Kazooie#EA82DD30#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "40bb85a1c50f83f1"
+            },
+            "path": "Banjo-Kazooie#11E11D0D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "7e96e71e106359db"
+            },
+            "path": "Banjo-Kazooie#4C5C43E4#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "b2f12727b3885080"
+            },
+            "path": "Banjo-Kazooie#709E4AEE#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "53e6d3bffff62042"
+            },
+            "path": "Banjo-Kazooie#869B624C#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "bab6da4af0bcc92e"
+            },
+            "path": "Banjo-Kazooie#A4B391C7#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "f2d84ca7fe2370d6"
+            },
+            "path": "Banjo-Kazooie#B9EEFD66#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "902971e07bfdd18c"
+            },
+            "path": "Banjo-Kazooie#14E86497#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "896189b545dc30e9"
+            },
+            "path": "Banjo-Kazooie#1E7A845D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "22918c7561883d6f"
+            },
+            "path": "Banjo-Kazooie#57F79D12#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "8aab9d24b004a9a7"
+            },
+            "path": "Banjo-Kazooie#6840A144#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "6755d4df24acceab"
+            },
+            "path": "Banjo-Kazooie#7AEA8B28#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "8d7d2d774910a107"
+            },
+            "path": "Banjo-Kazooie#F05D3E89#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "987cf38860388821"
+            },
+            "path": "Banjo-Kazooie#0FB8CABB#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "452373de7238d6e7"
+            },
+            "path": "Banjo-Kazooie#1A7D6AC6#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "79b00b41ec1fd16d"
+            },
+            "path": "Banjo-Kazooie#4C4AAF05#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "cd012e5730259fa9"
+            },
+            "path": "Banjo-Kazooie#7CDB61B3#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "940b32e0f9ce69e4"
+            },
+            "path": "Banjo-Kazooie#8BD2A555#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "2b87ed66c58acc1a"
+            },
+            "path": "Banjo-Kazooie#B62E9541#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "af13cd20c6eafb6c"
+            },
+            "path": "Banjo-Kazooie#4714E0C9#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a30ec1b667e1d2f5"
+            },
+            "path": "Banjo-Kazooie#A493D6CF#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "bce8af4307bff2e6"
+            },
+            "path": "Banjo-Kazooie#DAA35A7D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "813b19404a4f7f2b"
+            },
+            "path": "Banjo-Kazooie#E04D7AFC#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "10cc58bfe7e67312"
+            },
+            "path": "Banjo-Kazooie#E250A412#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "d1241887a53d8d4a"
+            },
+            "path": "Banjo-Kazooie#F1133DC8#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c900480dbe3b7b26"
+            },
+            "path": "Banjo-Kazooie#39580E89#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "59d3ee2ecdae9943"
+            },
+            "path": "Banjo-Kazooie#555AF823#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "b69080c8812ba7ae"
+            },
+            "path": "Banjo-Kazooie#5EF773D1#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c1c8dd3e305f7717"
+            },
+            "path": "Banjo-Kazooie#84E015DD#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "243131d0291faac0"
+            },
+            "path": "Banjo-Kazooie#AC1839BC#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c52e95a0d17ceb93"
+            },
+            "path": "Banjo-Kazooie#D20CC963#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "929d9fe400168882"
+            },
+            "path": "Banjo-Kazooie#002AC766#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "39506a3218361286"
+            },
+            "path": "Banjo-Kazooie#1720E78F#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "19eda3d8c6994b5c"
+            },
+            "path": "Banjo-Kazooie#56AFA354#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "42f0dd35a7eb1157"
+            },
+            "path": "Banjo-Kazooie#9A57C9EA#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "900fe7e9d547cec7"
+            },
+            "path": "Banjo-Kazooie#C304F73E#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "7d00d6bef3651604"
+            },
+            "path": "Banjo-Kazooie#D2FE135D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "39a44486b2b5d9c5"
+            },
+            "path": "Banjo-Kazooie#1BBC4016#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "e4ff37efbb973b31"
+            },
+            "path": "Banjo-Kazooie#848E7383#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "e09612470938978e"
+            },
+            "path": "Banjo-Kazooie#B6E91F5E#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "936f4962642fe0ba"
+            },
+            "path": "Banjo-Kazooie#C39F6B44#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "5363ca6b730d3e69"
+            },
+            "path": "Banjo-Kazooie#D169EBAC#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "5311e4cccd1b0fe0"
+            },
+            "path": "Banjo-Kazooie#DE0088B7#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "fce68f26b4b53478"
+            },
+            "path": "Banjo-Kazooie#20332E29#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "1ee91f7db9678bea"
+            },
+            "path": "Banjo-Kazooie#37AEEB8D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "f59c81866ed769e8"
+            },
+            "path": "Banjo-Kazooie#4ADBD971#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a5a7883635436763"
+            },
+            "path": "Banjo-Kazooie#51092EA9#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a8866f472ec1e5a3"
+            },
+            "path": "Banjo-Kazooie#5702A790#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "e7c41faf0fd01293"
+            },
+            "path": "Banjo-Kazooie#62846063#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "6a8fcf821dca04cd"
+            },
+            "path": "Banjo-Kazooie#7FFFEEFE#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "4d4f026a4b64cc87"
+            },
+            "path": "Banjo-Kazooie#8C7C5BAD#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "e3825ba52c93e657"
+            },
+            "path": "Banjo-Kazooie#A23209EA#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "5f43b8017b9df24d"
+            },
+            "path": "Banjo-Kazooie#DC591D57#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "9f3bbc6846c469c8"
+            },
+            "path": "Banjo-Kazooie#DD87B301#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "0c1f48efda230f9e"
+            },
+            "path": "Banjo-Kazooie#FD42AFC7#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a30d713335039403"
+            },
+            "path": "Banjo-Kazooie#4816E32C#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "f77dd14cc300ff5b"
+            },
+            "path": "Banjo-Kazooie#58110776#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a9bbdd13f42617cc"
+            },
+            "path": "Banjo-Kazooie#5D380FC5#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "76f337865df754c1"
+            },
+            "path": "Banjo-Kazooie#9AFF9243#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "5039f372954c86fa"
+            },
+            "path": "Banjo-Kazooie#A125413F#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "1d1f8c3260f20027"
+            },
+            "path": "Banjo-Kazooie#A7D4497F#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "9d7a3711d413907e"
+            },
+            "path": "Banjo-Kazooie#0A1097F0#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "50b26bcd43457570"
+            },
+            "path": "Banjo-Kazooie#25E2320B#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "21d6bcf31cba919d"
+            },
+            "path": "Banjo-Kazooie#43C6DAB6#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "44ebf9c40b658905"
+            },
+            "path": "Banjo-Kazooie#4D3ABD2E#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "3dfe2c2ca53db32c"
+            },
+            "path": "Banjo-Kazooie#605DE5ED#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "08121b655cca12ba"
+            },
+            "path": "Banjo-Kazooie#6A0899F5#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "9110d934772d1d4d"
+            },
+            "path": "Banjo-Kazooie#1221EC08#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "b4ab9e2ae0ad15fc"
+            },
+            "path": "Banjo-Kazooie#A69FBA49#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "43e212f734dff592"
+            },
+            "path": "Banjo-Kazooie#BE92A104#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "81a97d4943f1a3a2"
+            },
+            "path": "Banjo-Kazooie#DA4B6134#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "7e7644a53f68d15e"
+            },
+            "path": "Banjo-Kazooie#E0C06331#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "037d4916d00f0e9e"
+            },
+            "path": "Banjo-Kazooie#F5EDE920#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "4258c34beb7c58e0"
+            },
+            "path": "Banjo-Kazooie#18F7D40E#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "d89b990f24fb72a0"
+            },
+            "path": "Banjo-Kazooie#1C18BC45#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "1b6e4d7e32d845f0"
+            },
+            "path": "Banjo-Kazooie#4685A266#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "b2006226d5669ad1"
+            },
+            "path": "Banjo-Kazooie#51E5742A#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "6682ffd47ef2be07"
+            },
+            "path": "Banjo-Kazooie#7C4BC278#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "4b742aa88fb64f88"
+            },
+            "path": "Banjo-Kazooie#9681D5F0#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "ca30f0809db68f21"
+            },
+            "path": "Banjo-Kazooie#15F35147#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "42be9f50901cf53c"
+            },
+            "path": "Banjo-Kazooie#3479785C#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c4696d0c2f71f8c6"
+            },
+            "path": "Banjo-Kazooie#76BF88E6#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "31ad8f0af2ade7d4"
+            },
+            "path": "Banjo-Kazooie#9DBB5EB2#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "6dd2df928c50e12b"
+            },
+            "path": "Banjo-Kazooie#CB69E7DD#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "e9917e26566112c0"
+            },
+            "path": "Banjo-Kazooie#D7C1858A#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "bee33e9ef3c2d543"
+            },
+            "path": "Banjo-Kazooie#038509F4#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "0effa6bc6a3ed386"
+            },
+            "path": "Banjo-Kazooie#49711639#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "5626a697ab35db6a"
+            },
+            "path": "Banjo-Kazooie#70C83A6D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "1e48ea899c94de76"
+            },
+            "path": "Banjo-Kazooie#87711956#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "d731353f1bc1e320"
+            },
+            "path": "Banjo-Kazooie#89A9A496#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c38cf49e1e0e6559"
+            },
+            "path": "Banjo-Kazooie#CE288EA2#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "4f455a3a35c60db9"
+            },
+            "path": "Banjo-Kazooie#19ECAA11#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "dc47beb5b1d626f6"
+            },
+            "path": "Banjo-Kazooie#66F2378D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "370903bf1bb922f1"
+            },
+            "path": "Banjo-Kazooie#85DC78A4#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "05a0bdb40d38ad50"
+            },
+            "path": "Banjo-Kazooie#86135602#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "94865c0b6b10690a"
+            },
+            "path": "Banjo-Kazooie#A7452BF2#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "d5823ee779b89243"
+            },
+            "path": "Banjo-Kazooie#F0EAA844#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "d6735238a5b39820"
+            },
+            "path": "Banjo-Kazooie#742D8700#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "6f2de86c2cd1b046"
+            },
+            "path": "Banjo-Kazooie#7A43FC3F#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "415dccff63f62324"
+            },
+            "path": "Banjo-Kazooie#99C61A31#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "1c151e72fa4b3fe0"
+            },
+            "path": "Banjo-Kazooie#AD91C685#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "5baffc3821d77db6"
+            },
+            "path": "Banjo-Kazooie#DED1A9FC#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "b9589926df513b64"
+            },
+            "path": "Banjo-Kazooie#E6BE77B6#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c8745c187a4bad2c"
+            },
+            "path": "Banjo-Kazooie#0CB191A1#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "22c29148da380ba8"
+            },
+            "path": "Banjo-Kazooie#57CFE9C0#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "2eb6fcc979980149"
+            },
+            "path": "Banjo-Kazooie#8406D50F#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "e8913ae95c5a0b0c"
+            },
+            "path": "Banjo-Kazooie#DCA6BA57#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "7586c43ebed8c2e1"
+            },
+            "path": "Banjo-Kazooie#E0BC73A9#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "fc2a94b99f88f440"
+            },
+            "path": "Banjo-Kazooie#EDB774AE#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "39e5c14e93368d64"
+            },
+            "path": "Banjo-Kazooie#442596CB#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "5056fa5d86d656ef"
+            },
+            "path": "Banjo-Kazooie#530B0B4F#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "b34e7a176dc3c21f"
+            },
+            "path": "Banjo-Kazooie#5E2E227E#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "aa034da157ac7b78"
+            },
+            "path": "Banjo-Kazooie#9596290D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "6dd96b095e8142af"
+            },
+            "path": "Banjo-Kazooie#9B0D4457#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "46a530db190100e8"
+            },
+            "path": "Banjo-Kazooie#E4D12C14#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "e3d1bc61a3a1a8a7"
+            },
+            "path": "Banjo-Kazooie#0E77C2EC#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "4b266478c71a981d"
+            },
+            "path": "Banjo-Kazooie#1D7F35EA#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "cabf3e8747d9f119"
+            },
+            "path": "Banjo-Kazooie#467D0916#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "ad491c559d8bf183"
+            },
+            "path": "Banjo-Kazooie#547DB085#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "84b2669bbab0cf52"
+            },
+            "path": "Banjo-Kazooie#6B79F5BD#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "887c581d8d7ba8f6"
+            },
+            "path": "Banjo-Kazooie#7CC0AE17#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "9d0727a0400867a0"
+            },
+            "path": "Banjo-Kazooie#0E080275#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "6a2d1976a173b753"
+            },
+            "path": "Banjo-Kazooie#2F3D1AF8#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "24a7fa4d84664626"
+            },
+            "path": "Banjo-Kazooie#548579B8#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a6d2b665f964b7ea"
+            },
+            "path": "Banjo-Kazooie#8B73DC56#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "d592ef1f627bd063"
+            },
+            "path": "Banjo-Kazooie#CE717B53#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "9b4b065862f6ebd9"
+            },
+            "path": "Banjo-Kazooie#F9DA7C49#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "fa79bce7edf13c7c"
+            },
+            "path": "Banjo-Kazooie#0FC1763C#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "fae0bed7e279959f"
+            },
+            "path": "Banjo-Kazooie#26474DFC#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "3b56bc8c3309f36a"
+            },
+            "path": "Banjo-Kazooie#59F42E74#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "f5e711ce60e807cd"
+            },
+            "path": "Banjo-Kazooie#8FA3F175#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "30ea2efc9e56be3b"
+            },
+            "path": "Banjo-Kazooie#BF59F308#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a2184e50a8122e0b"
+            },
+            "path": "Banjo-Kazooie#E67A4159#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "69070bbc97db8a8b"
+            },
+            "path": "Banjo-Kazooie#43812817#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c1fd97ef2839821c"
+            },
+            "path": "Banjo-Kazooie#47115F9D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "9debbb14df2907b0"
+            },
+            "path": "Banjo-Kazooie#8AF1C125#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "58ce3f713c90871b"
+            },
+            "path": "Banjo-Kazooie#9DDB853D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a89dde037e18d26e"
+            },
+            "path": "Banjo-Kazooie#D09F43FE#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "89d323b04fd07007"
+            },
+            "path": "Banjo-Kazooie#E31B045B#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "f57d2e4b0e7145ab"
+            },
+            "path": "Banjo-Kazooie#294635FD#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "2030d552e9cfd7f7"
+            },
+            "path": "Banjo-Kazooie#7DE58E94#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "9307fa052d829adf"
+            },
+            "path": "Banjo-Kazooie#AE171087#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "adfc3a2abb9fc42d"
+            },
+            "path": "Banjo-Kazooie#B5DC543B#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "d985af8474787a9d"
+            },
+            "path": "Banjo-Kazooie#DC44EB34#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c134dfada82813e7"
+            },
+            "path": "Banjo-Kazooie#F33C9F74#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "b7c0d81d68c4116d"
+            },
+            "path": "Banjo-Kazooie#098FF9A6#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "f28160fa8a04ba6e"
+            },
+            "path": "Banjo-Kazooie#616C5FE0#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "27ad6dd418bed9f7"
+            },
+            "path": "Banjo-Kazooie#9E9B4FD9#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "8688f9ca842c864f"
+            },
+            "path": "Banjo-Kazooie#D25A188A#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c17f276f7f7fe86e"
+            },
+            "path": "Banjo-Kazooie#D6DB0BC1#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "6826dee59afee1ae"
+            },
+            "path": "Banjo-Kazooie#E0C5C529#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "65d70d49be201987"
+            },
+            "path": "Banjo-Kazooie#11AD4610#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "d460b40cee990a82"
+            },
+            "path": "Banjo-Kazooie#15187043#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "79db95aad5f0ce74"
+            },
+            "path": "Banjo-Kazooie#2DB44236#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "6f3e5204c0e4b307"
+            },
+            "path": "Banjo-Kazooie#4C3D90EA#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "ebf52fef8937914f"
+            },
+            "path": "Banjo-Kazooie#54A1E1A3#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "ffe9e2ff1f1b62e6"
+            },
+            "path": "Banjo-Kazooie#84AB8DEF#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "7ed7793c347fb4a6"
+            },
+            "path": "Banjo-Kazooie#18D6D52C#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "9259096678b9ae1a"
+            },
+            "path": "Banjo-Kazooie#1B5C6B1A#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "3686ae17089b6737"
+            },
+            "path": "Banjo-Kazooie#3C63FB15#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "86171e3877c726ec"
+            },
+            "path": "Banjo-Kazooie#77A1A5F9#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "4836e9c57f68c614"
+            },
+            "path": "Banjo-Kazooie#ACEBFD45#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "870fb07e88d76ef2"
+            },
+            "path": "Banjo-Kazooie#D9037C9E#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "e35d72167527ae18"
+            },
+            "path": "Banjo-Kazooie#23F20AC4#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "721c4815e3662d42"
+            },
+            "path": "Banjo-Kazooie#2B355A1A#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "f6e48bac5d11da16"
+            },
+            "path": "Banjo-Kazooie#34C3D3D0#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "1fa2588e8d4efb1a"
+            },
+            "path": "Banjo-Kazooie#46093355#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "d82a3c82813bb9b5"
+            },
+            "path": "Banjo-Kazooie#BABB4985#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "390035ed7f252707"
+            },
+            "path": "Banjo-Kazooie#E200392E#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "fbdee8434563ae18"
+            },
+            "path": "Banjo-Kazooie#06198ABA#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "dbda7a17c33f8cb2"
+            },
+            "path": "Banjo-Kazooie#1B74BF63#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c756ff03f0ff4a9c"
+            },
+            "path": "Banjo-Kazooie#4CF73C33#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a332d160a55ace57"
+            },
+            "path": "Banjo-Kazooie#584FE8A3#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "efc4617300a034f4"
+            },
+            "path": "Banjo-Kazooie#EBB0A645#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "0049c99b47fb4395"
+            },
+            "path": "Banjo-Kazooie#EC17B900#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "95c837991bd6b4ad"
+            },
+            "path": "Banjo-Kazooie#09AFFA11#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "ecc3a1eb3c9acec2"
+            },
+            "path": "Banjo-Kazooie#8B9A61E0#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a9668df2645fe5ae"
+            },
+            "path": "Banjo-Kazooie#907D163F#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "3c3935864d9f5fdb"
+            },
+            "path": "Banjo-Kazooie#979E37F0#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "21c39f0436c0bb98"
+            },
+            "path": "Banjo-Kazooie#D430A862#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "38c6d5b437e4aeee"
+            },
+            "path": "Banjo-Kazooie#E6CF017D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "b2d264087855bdb1"
+            },
+            "path": "Banjo-Kazooie#11B16623#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "77d8807de1906164"
+            },
+            "path": "Banjo-Kazooie#1EF33655#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "801219e6beb829e9"
+            },
+            "path": "Banjo-Kazooie#3177BC86#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "578e124b9f2b67d1"
+            },
+            "path": "Banjo-Kazooie#65B639E3#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "04e1f0182f096756"
+            },
+            "path": "Banjo-Kazooie#7B3373EA#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "d29a85c61e2b0937"
+            },
+            "path": "Banjo-Kazooie#B43F8C7D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "2240cb756bc19de4"
+            },
+            "path": "Banjo-Kazooie#0AFCC1A4#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "ac8928c4590eb3f4"
+            },
+            "path": "Banjo-Kazooie#1DDF673E#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "773bd125fab12ad6"
+            },
+            "path": "Banjo-Kazooie#283C5F6A#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a255815187a0ac04"
+            },
+            "path": "Banjo-Kazooie#67936617#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "4e004c58622b526b"
+            },
+            "path": "Banjo-Kazooie#9F69A23E#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "553ac186d847f552"
+            },
+            "path": "Banjo-Kazooie#DDF14D1F#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "3c802694c921380f"
+            },
+            "path": "Banjo-Kazooie#17C5502B#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "0f637e83cace7231"
+            },
+            "path": "Banjo-Kazooie#2B172C3F#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a76dc1aaf0ae253e"
+            },
+            "path": "Banjo-Kazooie#30FBD039#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "92ceff1a3012a4bd"
+            },
+            "path": "Banjo-Kazooie#5D81C246#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "99591c7b3655aa65"
+            },
+            "path": "Banjo-Kazooie#DD67F9BB#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "ab83daf0ab84f236"
+            },
+            "path": "Banjo-Kazooie#E8972A9A#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "8186b0171a4aaa8a"
+            },
+            "path": "Banjo-Kazooie#60DE0918#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "064ffc4d5b3f84bb"
+            },
+            "path": "Banjo-Kazooie#6F108589#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "e54c7d4c48d5e034"
+            },
+            "path": "Banjo-Kazooie#9DEBA65D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "91b1fec44d752c82"
+            },
+            "path": "Banjo-Kazooie#C82BB622#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c3516fd76bb22e24"
+            },
+            "path": "Banjo-Kazooie#EAE4B616#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "e501c21dfb458171"
+            },
+            "path": "Banjo-Kazooie#FAB0B16F#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "11bc756eb389a4b5"
+            },
+            "path": "Banjo-Kazooie#34D75555#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "1ea9eda8ce8539c9"
+            },
+            "path": "Banjo-Kazooie#45275F42#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "daf0558386e43eda"
+            },
+            "path": "Banjo-Kazooie#81804B41#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "6f06434e6f809c57"
+            },
+            "path": "Banjo-Kazooie#C8B095D3#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "acb26ceee79a0314"
+            },
+            "path": "Banjo-Kazooie#D5F2BD00#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "1cbf758d389e1c89"
+            },
+            "path": "Banjo-Kazooie#FB007D09#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "486822fbc2483242"
+            },
+            "path": "Banjo-Kazooie#0F501FEA#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "56648eecc1d624c9"
+            },
+            "path": "Banjo-Kazooie#170396A7#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "35306d798412660f"
+            },
+            "path": "Banjo-Kazooie#4289DB82#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "824bfd09c8a26aa5"
+            },
+            "path": "Banjo-Kazooie#5D496259#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "8f2cbc404249154e"
+            },
+            "path": "Banjo-Kazooie#8E04351D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "0569a973897719c7"
+            },
+            "path": "Banjo-Kazooie#B6C0ACA4#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "fba6dffa62bd8776"
+            },
+            "path": "Banjo-Kazooie#59265FDF#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "4caa3f648db52b27"
+            },
+            "path": "Banjo-Kazooie#903EBF66#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c30673a3baf0f9e9"
+            },
+            "path": "Banjo-Kazooie#A93FBF63#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "244e47acc9f76984"
+            },
+            "path": "Banjo-Kazooie#C4AC181F#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "7e77495c0c7f359d"
+            },
+            "path": "Banjo-Kazooie#C9371136#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "3967ee2cac9368cc"
+            },
+            "path": "Banjo-Kazooie#D0CB0E23#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "7397d5c84faba2f8"
+            },
+            "path": "Banjo-Kazooie#1F33B917#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "adc5679ee5075c3d"
+            },
+            "path": "Banjo-Kazooie#3ADB9B1B#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "2384db5111dbbd70"
+            },
+            "path": "Banjo-Kazooie#70B6CB85#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a1b4cfd44c1f9034"
+            },
+            "path": "Banjo-Kazooie#A146378A#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "2d1d68e587afa3bd"
+            },
+            "path": "Banjo-Kazooie#B1926141#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "b3c12a95ac5efc4f"
+            },
+            "path": "Banjo-Kazooie#FCDAA5CF#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "9ec6bfcea64aea06"
+            },
+            "path": "Banjo-Kazooie#2801F0CB#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "918778c7233ebdd7"
+            },
+            "path": "Banjo-Kazooie#6B112324#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "f2346e1e736f5dcd"
+            },
+            "path": "Banjo-Kazooie#9C4ACEAE#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "a19c153b2a9c38c1"
+            },
+            "path": "Banjo-Kazooie#A0000C99#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "76d05b2ce4875131"
+            },
+            "path": "Banjo-Kazooie#C229E1E0#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "79ae00b2a5b787bd"
+            },
+            "path": "Banjo-Kazooie#E6909337#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "2805370fa8ae84e4"
+            },
+            "path": "Banjo-Kazooie#4095A2B1#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c74db7844ae275ba"
+            },
+            "path": "Banjo-Kazooie#40C0AEA7#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "8de2017cc9b79407"
+            },
+            "path": "Banjo-Kazooie#46AEE3C6#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "be5dd6a343cde54d"
+            },
+            "path": "Banjo-Kazooie#A12C9202#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "3e72084bc1782b14"
+            },
+            "path": "Banjo-Kazooie#B3A23F56#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "be0dbc7a6eb3bab4"
+            },
+            "path": "Banjo-Kazooie#DC8B7280#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "8a2d15d640aab104"
+            },
+            "path": "Banjo-Kazooie#10708CEF#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "18736081af333cbd"
+            },
+            "path": "Banjo-Kazooie#36CFAD99#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "e3c84fc6e87bf609"
+            },
+            "path": "Banjo-Kazooie#8B6FAB5D#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "afce73686ee06c0f"
+            },
+            "path": "Banjo-Kazooie#9597D03A#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "284dd166c809a2c5"
+            },
+            "path": "Banjo-Kazooie#F03326A0#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        },
+        {
+            "hashes": {
+                "rt64": "c856b9543f96caf4"
+            },
+            "path": "Banjo-Kazooie#F47EB040#0#3_all",
+            "operation": "preload",
+            "shift": "none"
+        }
+    ]
+}

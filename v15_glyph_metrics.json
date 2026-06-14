@@ -1,0 +1,3152 @@
+[
+  {
+    "slot": 0,
+    "glyph": "!",
+    "logical_w": 4,
+    "tex_w": 16,
+    "bbox": [
+      6,
+      21,
+      10,
+      43
+    ],
+    "bbox_w": 4,
+    "bbox_h": 22
+  },
+  {
+    "slot": 1,
+    "glyph": "\"",
+    "logical_w": 6,
+    "tex_w": 24,
+    "bbox": [
+      6,
+      7,
+      18,
+      22
+    ],
+    "bbox_w": 12,
+    "bbox_h": 15
+  },
+  {
+    "slot": 2,
+    "glyph": "Ь",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 3,
+    "glyph": "Э",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      1,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 29,
+    "bbox_h": 37
+  },
+  {
+    "slot": 4,
+    "glyph": "Ю",
+    "logical_w": 11,
+    "tex_w": 44,
+    "bbox": [
+      3,
+      6,
+      41,
+      43
+    ],
+    "bbox_w": 38,
+    "bbox_h": 37
+  },
+  {
+    "slot": 5,
+    "glyph": "Я",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      3,
+      7,
+      29,
+      43
+    ],
+    "bbox_w": 26,
+    "bbox_h": 36
+  },
+  {
+    "slot": 6,
+    "glyph": "'",
+    "logical_w": 3,
+    "tex_w": 12,
+    "bbox": [
+      3,
+      7,
+      9,
+      22
+    ],
+    "bbox_w": 6,
+    "bbox_h": 15
+  },
+  {
+    "slot": 7,
+    "glyph": "(",
+    "logical_w": 5,
+    "tex_w": 20,
+    "bbox": [
+      7,
+      21,
+      12,
+      43
+    ],
+    "bbox_w": 5,
+    "bbox_h": 22
+  },
+  {
+    "slot": 8,
+    "glyph": ")",
+    "logical_w": 5,
+    "tex_w": 20,
+    "bbox": [
+      7,
+      21,
+      12,
+      43
+    ],
+    "bbox_w": 5,
+    "bbox_h": 22
+  },
+  {
+    "slot": 9,
+    "glyph": "Ё",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      2,
+      26,
+      42
+    ],
+    "bbox_w": 25,
+    "bbox_h": 40
+  },
+  {
+    "slot": 10,
+    "glyph": "Ц",
+    "logical_w": 9,
+    "tex_w": 36,
+    "bbox": [
+      3,
+      6,
+      33,
+      43
+    ],
+    "bbox_w": 30,
+    "bbox_h": 37
+  },
+  {
+    "slot": 11,
+    "glyph": ",",
+    "logical_w": 4,
+    "tex_w": 16,
+    "bbox": [
+      5,
+      33,
+      10,
+      42
+    ],
+    "bbox_w": 5,
+    "bbox_h": 9
+  },
+  {
+    "slot": 12,
+    "glyph": "-",
+    "logical_w": 6,
+    "tex_w": 24,
+    "bbox": [
+      4,
+      23,
+      19,
+      30
+    ],
+    "bbox_w": 15,
+    "bbox_h": 7
+  },
+  {
+    "slot": 13,
+    "glyph": ".",
+    "logical_w": 4,
+    "tex_w": 16,
+    "bbox": [
+      5,
+      33,
+      10,
+      42
+    ],
+    "bbox_w": 5,
+    "bbox_h": 9
+  },
+  {
+    "slot": 14,
+    "glyph": "А",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 38
+  },
+  {
+    "slot": 15,
+    "glyph": "0",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 16,
+    "glyph": "1",
+    "logical_w": 5,
+    "tex_w": 20,
+    "bbox": [
+      3,
+      6,
+      16,
+      43
+    ],
+    "bbox_w": 13,
+    "bbox_h": 37
+  },
+  {
+    "slot": 17,
+    "glyph": "2",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      3,
+      8,
+      24,
+      43
+    ],
+    "bbox_w": 21,
+    "bbox_h": 35
+  },
+  {
+    "slot": 18,
+    "glyph": "3",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 19,
+    "glyph": "4",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 20,
+    "glyph": "5",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 21,
+    "glyph": "6",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 22,
+    "glyph": "7",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 23,
+    "glyph": "8",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      3,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 22,
+    "bbox_h": 36
+  },
+  {
+    "slot": 24,
+    "glyph": "9",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 25,
+    "glyph": ":",
+    "logical_w": 4,
+    "tex_w": 16,
+    "bbox": [
+      5,
+      16,
+      10,
+      42
+    ],
+    "bbox_w": 5,
+    "bbox_h": 26
+  },
+  {
+    "slot": 26,
+    "glyph": ";",
+    "logical_w": 4,
+    "tex_w": 16,
+    "bbox": [
+      5,
+      16,
+      10,
+      42
+    ],
+    "bbox_w": 5,
+    "bbox_h": 26
+  },
+  {
+    "slot": 27,
+    "glyph": "Ы",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 28,
+    "glyph": "Ш",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 29,
+    "glyph": "Щ",
+    "logical_w": 11,
+    "tex_w": 44,
+    "bbox": [
+      3,
+      6,
+      41,
+      43
+    ],
+    "bbox_w": 38,
+    "bbox_h": 37
+  },
+  {
+    "slot": 30,
+    "glyph": "?",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      7,
+      21,
+      20,
+      43
+    ],
+    "bbox_w": 13,
+    "bbox_h": 22
+  },
+  {
+    "slot": 31,
+    "glyph": "Л",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 32,
+    "glyph": "А",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 38
+  },
+  {
+    "slot": 33,
+    "glyph": "В",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 34,
+    "glyph": "С",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      1,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 29,
+    "bbox_h": 37
+  },
+  {
+    "slot": 35,
+    "glyph": "Б",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 36,
+    "glyph": "Е",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 37,
+    "glyph": "Э",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      1,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 29,
+    "bbox_h": 37
+  },
+  {
+    "slot": 38,
+    "glyph": "Д",
+    "logical_w": 9,
+    "tex_w": 36,
+    "bbox": [
+      2,
+      6,
+      34,
+      43
+    ],
+    "bbox_w": 32,
+    "bbox_h": 37
+  },
+  {
+    "slot": 39,
+    "glyph": "Н",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 40,
+    "glyph": "Ь",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 41,
+    "glyph": "Г",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 24,
+    "bbox_h": 37
+  },
+  {
+    "slot": 42,
+    "glyph": "К",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 43,
+    "glyph": "Л",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 44,
+    "glyph": "М",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 45,
+    "glyph": "Ж",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 46,
+    "glyph": "О",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      1,
+      4,
+      30,
+      42
+    ],
+    "bbox_w": 29,
+    "bbox_h": 38
+  },
+  {
+    "slot": 47,
+    "glyph": "Р",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      3,
+      6,
+      28,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 48,
+    "glyph": "Ю",
+    "logical_w": 11,
+    "tex_w": 44,
+    "bbox": [
+      3,
+      6,
+      41,
+      43
+    ],
+    "bbox_w": 38,
+    "bbox_h": 37
+  },
+  {
+    "slot": 49,
+    "glyph": "И",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 38
+  },
+  {
+    "slot": 50,
+    "glyph": "Й",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 51,
+    "glyph": "Т",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 24,
+    "bbox_h": 37
+  },
+  {
+    "slot": 52,
+    "glyph": "Л",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 53,
+    "glyph": "П",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 54,
+    "glyph": "Щ",
+    "logical_w": 11,
+    "tex_w": 44,
+    "bbox": [
+      3,
+      6,
+      41,
+      43
+    ],
+    "bbox_w": 38,
+    "bbox_h": 37
+  },
+  {
+    "slot": 55,
+    "glyph": "Х",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 56,
+    "glyph": "У",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 57,
+    "glyph": "Z",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 58,
+    "glyph": "Б",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 59,
+    "glyph": "Ф",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 60,
+    "glyph": "И",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 38
+  },
+  {
+    "slot": 61,
+    "glyph": "Ж",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 62,
+    "glyph": "З",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 63,
+    "glyph": "Д",
+    "logical_w": 9,
+    "tex_w": 36,
+    "bbox": [
+      2,
+      6,
+      34,
+      43
+    ],
+    "bbox_w": 32,
+    "bbox_h": 37
+  },
+  {
+    "slot": 64,
+    "glyph": "С",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      1,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 29,
+    "bbox_h": 37
+  },
+  {
+    "slot": 65,
+    "glyph": "Ё",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      2,
+      26,
+      42
+    ],
+    "bbox_w": 25,
+    "bbox_h": 40
+  },
+  {
+    "slot": 66,
+    "glyph": "Ь",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 67,
+    "glyph": "Ё",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      2,
+      26,
+      42
+    ],
+    "bbox_w": 25,
+    "bbox_h": 40
+  },
+  {
+    "slot": 68,
+    "glyph": "Ж",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 69,
+    "glyph": "Г",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 24,
+    "bbox_h": 37
+  },
+  {
+    "slot": 70,
+    "glyph": "Л",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 71,
+    "glyph": "Ч",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 72,
+    "glyph": "Й",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 73,
+    "glyph": "П",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 74,
+    "glyph": "Ы",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 0,
+    "glyph": "!",
+    "logical_w": 4,
+    "tex_w": 16,
+    "bbox": [
+      6,
+      21,
+      10,
+      43
+    ],
+    "bbox_w": 4,
+    "bbox_h": 22
+  },
+  {
+    "slot": 1,
+    "glyph": "\"",
+    "logical_w": 6,
+    "tex_w": 24,
+    "bbox": [
+      6,
+      7,
+      18,
+      22
+    ],
+    "bbox_w": 12,
+    "bbox_h": 15
+  },
+  {
+    "slot": 2,
+    "glyph": "Ь",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 3,
+    "glyph": "Э",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      1,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 29,
+    "bbox_h": 37
+  },
+  {
+    "slot": 4,
+    "glyph": "Ю",
+    "logical_w": 11,
+    "tex_w": 44,
+    "bbox": [
+      3,
+      6,
+      41,
+      43
+    ],
+    "bbox_w": 38,
+    "bbox_h": 37
+  },
+  {
+    "slot": 5,
+    "glyph": "Я",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      3,
+      7,
+      29,
+      43
+    ],
+    "bbox_w": 26,
+    "bbox_h": 36
+  },
+  {
+    "slot": 6,
+    "glyph": "'",
+    "logical_w": 3,
+    "tex_w": 12,
+    "bbox": [
+      3,
+      7,
+      9,
+      22
+    ],
+    "bbox_w": 6,
+    "bbox_h": 15
+  },
+  {
+    "slot": 7,
+    "glyph": "(",
+    "logical_w": 5,
+    "tex_w": 20,
+    "bbox": [
+      7,
+      21,
+      12,
+      43
+    ],
+    "bbox_w": 5,
+    "bbox_h": 22
+  },
+  {
+    "slot": 8,
+    "glyph": ")",
+    "logical_w": 5,
+    "tex_w": 20,
+    "bbox": [
+      7,
+      21,
+      12,
+      43
+    ],
+    "bbox_w": 5,
+    "bbox_h": 22
+  },
+  {
+    "slot": 9,
+    "glyph": "Ё",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      2,
+      26,
+      42
+    ],
+    "bbox_w": 25,
+    "bbox_h": 40
+  },
+  {
+    "slot": 10,
+    "glyph": "Ц",
+    "logical_w": 9,
+    "tex_w": 36,
+    "bbox": [
+      3,
+      6,
+      33,
+      43
+    ],
+    "bbox_w": 30,
+    "bbox_h": 37
+  },
+  {
+    "slot": 11,
+    "glyph": ",",
+    "logical_w": 4,
+    "tex_w": 16,
+    "bbox": [
+      5,
+      33,
+      10,
+      42
+    ],
+    "bbox_w": 5,
+    "bbox_h": 9
+  },
+  {
+    "slot": 12,
+    "glyph": "-",
+    "logical_w": 6,
+    "tex_w": 24,
+    "bbox": [
+      4,
+      23,
+      19,
+      30
+    ],
+    "bbox_w": 15,
+    "bbox_h": 7
+  },
+  {
+    "slot": 13,
+    "glyph": ".",
+    "logical_w": 4,
+    "tex_w": 16,
+    "bbox": [
+      5,
+      33,
+      10,
+      42
+    ],
+    "bbox_w": 5,
+    "bbox_h": 9
+  },
+  {
+    "slot": 14,
+    "glyph": "А",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 38
+  },
+  {
+    "slot": 15,
+    "glyph": "0",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 16,
+    "glyph": "1",
+    "logical_w": 5,
+    "tex_w": 20,
+    "bbox": [
+      3,
+      6,
+      16,
+      43
+    ],
+    "bbox_w": 13,
+    "bbox_h": 37
+  },
+  {
+    "slot": 17,
+    "glyph": "2",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      3,
+      8,
+      24,
+      43
+    ],
+    "bbox_w": 21,
+    "bbox_h": 35
+  },
+  {
+    "slot": 18,
+    "glyph": "3",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 19,
+    "glyph": "4",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 20,
+    "glyph": "5",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 21,
+    "glyph": "6",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 22,
+    "glyph": "7",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 23,
+    "glyph": "8",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      3,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 22,
+    "bbox_h": 36
+  },
+  {
+    "slot": 24,
+    "glyph": "9",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 25,
+    "glyph": ":",
+    "logical_w": 4,
+    "tex_w": 16,
+    "bbox": [
+      5,
+      16,
+      10,
+      42
+    ],
+    "bbox_w": 5,
+    "bbox_h": 26
+  },
+  {
+    "slot": 26,
+    "glyph": ";",
+    "logical_w": 4,
+    "tex_w": 16,
+    "bbox": [
+      5,
+      16,
+      10,
+      42
+    ],
+    "bbox_w": 5,
+    "bbox_h": 26
+  },
+  {
+    "slot": 27,
+    "glyph": "Ы",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 28,
+    "glyph": "Ш",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 29,
+    "glyph": "Щ",
+    "logical_w": 11,
+    "tex_w": 44,
+    "bbox": [
+      3,
+      6,
+      41,
+      43
+    ],
+    "bbox_w": 38,
+    "bbox_h": 37
+  },
+  {
+    "slot": 30,
+    "glyph": "?",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      7,
+      21,
+      20,
+      43
+    ],
+    "bbox_w": 13,
+    "bbox_h": 22
+  },
+  {
+    "slot": 31,
+    "glyph": "Л",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 32,
+    "glyph": "А",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 38
+  },
+  {
+    "slot": 33,
+    "glyph": "В",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 34,
+    "glyph": "С",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      1,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 29,
+    "bbox_h": 37
+  },
+  {
+    "slot": 35,
+    "glyph": "Б",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 36,
+    "glyph": "Е",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 37,
+    "glyph": "Э",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      1,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 29,
+    "bbox_h": 37
+  },
+  {
+    "slot": 38,
+    "glyph": "Д",
+    "logical_w": 9,
+    "tex_w": 36,
+    "bbox": [
+      2,
+      6,
+      34,
+      43
+    ],
+    "bbox_w": 32,
+    "bbox_h": 37
+  },
+  {
+    "slot": 39,
+    "glyph": "Н",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 40,
+    "glyph": "Ь",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 41,
+    "glyph": "Г",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 24,
+    "bbox_h": 37
+  },
+  {
+    "slot": 42,
+    "glyph": "К",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 43,
+    "glyph": "Л",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 44,
+    "glyph": "М",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 45,
+    "glyph": "Ж",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 46,
+    "glyph": "О",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      1,
+      4,
+      30,
+      42
+    ],
+    "bbox_w": 29,
+    "bbox_h": 38
+  },
+  {
+    "slot": 47,
+    "glyph": "Р",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      3,
+      6,
+      28,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 48,
+    "glyph": "Ю",
+    "logical_w": 11,
+    "tex_w": 44,
+    "bbox": [
+      3,
+      6,
+      41,
+      43
+    ],
+    "bbox_w": 38,
+    "bbox_h": 37
+  },
+  {
+    "slot": 49,
+    "glyph": "И",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 38
+  },
+  {
+    "slot": 50,
+    "glyph": "Й",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 51,
+    "glyph": "Т",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 24,
+    "bbox_h": 37
+  },
+  {
+    "slot": 52,
+    "glyph": "Л",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 53,
+    "glyph": "П",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 54,
+    "glyph": "Щ",
+    "logical_w": 11,
+    "tex_w": 44,
+    "bbox": [
+      3,
+      6,
+      41,
+      43
+    ],
+    "bbox_w": 38,
+    "bbox_h": 37
+  },
+  {
+    "slot": 55,
+    "glyph": "Х",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 56,
+    "glyph": "У",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 57,
+    "glyph": "Z",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 58,
+    "glyph": "Б",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 59,
+    "glyph": "Ф",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 60,
+    "glyph": "И",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 38
+  },
+  {
+    "slot": 61,
+    "glyph": "Ж",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 62,
+    "glyph": "З",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 63,
+    "glyph": "Д",
+    "logical_w": 9,
+    "tex_w": 36,
+    "bbox": [
+      2,
+      6,
+      34,
+      43
+    ],
+    "bbox_w": 32,
+    "bbox_h": 37
+  },
+  {
+    "slot": 64,
+    "glyph": "С",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      1,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 29,
+    "bbox_h": 37
+  },
+  {
+    "slot": 65,
+    "glyph": "Ё",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      2,
+      26,
+      42
+    ],
+    "bbox_w": 25,
+    "bbox_h": 40
+  },
+  {
+    "slot": 66,
+    "glyph": "Ь",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 67,
+    "glyph": "Ё",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      2,
+      26,
+      42
+    ],
+    "bbox_w": 25,
+    "bbox_h": 40
+  },
+  {
+    "slot": 68,
+    "glyph": "Ж",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 69,
+    "glyph": "Г",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 24,
+    "bbox_h": 37
+  },
+  {
+    "slot": 70,
+    "glyph": "Л",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 71,
+    "glyph": "Ч",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 72,
+    "glyph": "Й",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 73,
+    "glyph": "П",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 74,
+    "glyph": "Ы",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 0,
+    "glyph": "!",
+    "logical_w": 4,
+    "tex_w": 16,
+    "bbox": [
+      6,
+      21,
+      10,
+      43
+    ],
+    "bbox_w": 4,
+    "bbox_h": 22
+  },
+  {
+    "slot": 1,
+    "glyph": "\"",
+    "logical_w": 6,
+    "tex_w": 24,
+    "bbox": [
+      6,
+      7,
+      18,
+      22
+    ],
+    "bbox_w": 12,
+    "bbox_h": 15
+  },
+  {
+    "slot": 2,
+    "glyph": "Ь",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 3,
+    "glyph": "Э",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      1,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 29,
+    "bbox_h": 37
+  },
+  {
+    "slot": 4,
+    "glyph": "Ю",
+    "logical_w": 11,
+    "tex_w": 44,
+    "bbox": [
+      3,
+      6,
+      41,
+      43
+    ],
+    "bbox_w": 38,
+    "bbox_h": 37
+  },
+  {
+    "slot": 5,
+    "glyph": "Я",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      3,
+      7,
+      29,
+      43
+    ],
+    "bbox_w": 26,
+    "bbox_h": 36
+  },
+  {
+    "slot": 6,
+    "glyph": "'",
+    "logical_w": 3,
+    "tex_w": 12,
+    "bbox": [
+      3,
+      7,
+      9,
+      22
+    ],
+    "bbox_w": 6,
+    "bbox_h": 15
+  },
+  {
+    "slot": 7,
+    "glyph": "(",
+    "logical_w": 5,
+    "tex_w": 20,
+    "bbox": [
+      7,
+      21,
+      12,
+      43
+    ],
+    "bbox_w": 5,
+    "bbox_h": 22
+  },
+  {
+    "slot": 8,
+    "glyph": ")",
+    "logical_w": 5,
+    "tex_w": 20,
+    "bbox": [
+      7,
+      21,
+      12,
+      43
+    ],
+    "bbox_w": 5,
+    "bbox_h": 22
+  },
+  {
+    "slot": 9,
+    "glyph": "Ё",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      2,
+      26,
+      42
+    ],
+    "bbox_w": 25,
+    "bbox_h": 40
+  },
+  {
+    "slot": 10,
+    "glyph": "Ц",
+    "logical_w": 9,
+    "tex_w": 36,
+    "bbox": [
+      3,
+      6,
+      33,
+      43
+    ],
+    "bbox_w": 30,
+    "bbox_h": 37
+  },
+  {
+    "slot": 11,
+    "glyph": ",",
+    "logical_w": 4,
+    "tex_w": 16,
+    "bbox": [
+      5,
+      33,
+      10,
+      42
+    ],
+    "bbox_w": 5,
+    "bbox_h": 9
+  },
+  {
+    "slot": 12,
+    "glyph": "-",
+    "logical_w": 6,
+    "tex_w": 24,
+    "bbox": [
+      4,
+      23,
+      19,
+      30
+    ],
+    "bbox_w": 15,
+    "bbox_h": 7
+  },
+  {
+    "slot": 13,
+    "glyph": ".",
+    "logical_w": 4,
+    "tex_w": 16,
+    "bbox": [
+      5,
+      33,
+      10,
+      42
+    ],
+    "bbox_w": 5,
+    "bbox_h": 9
+  },
+  {
+    "slot": 14,
+    "glyph": "А",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 38
+  },
+  {
+    "slot": 15,
+    "glyph": "0",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 16,
+    "glyph": "1",
+    "logical_w": 5,
+    "tex_w": 20,
+    "bbox": [
+      3,
+      6,
+      16,
+      43
+    ],
+    "bbox_w": 13,
+    "bbox_h": 37
+  },
+  {
+    "slot": 17,
+    "glyph": "2",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      3,
+      8,
+      24,
+      43
+    ],
+    "bbox_w": 21,
+    "bbox_h": 35
+  },
+  {
+    "slot": 18,
+    "glyph": "3",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 19,
+    "glyph": "4",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 20,
+    "glyph": "5",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 21,
+    "glyph": "6",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 22,
+    "glyph": "7",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 23,
+    "glyph": "8",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      3,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 22,
+    "bbox_h": 36
+  },
+  {
+    "slot": 24,
+    "glyph": "9",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      7,
+      25,
+      43
+    ],
+    "bbox_w": 23,
+    "bbox_h": 36
+  },
+  {
+    "slot": 25,
+    "glyph": ":",
+    "logical_w": 4,
+    "tex_w": 16,
+    "bbox": [
+      5,
+      16,
+      10,
+      42
+    ],
+    "bbox_w": 5,
+    "bbox_h": 26
+  },
+  {
+    "slot": 26,
+    "glyph": ";",
+    "logical_w": 4,
+    "tex_w": 16,
+    "bbox": [
+      5,
+      16,
+      10,
+      42
+    ],
+    "bbox_w": 5,
+    "bbox_h": 26
+  },
+  {
+    "slot": 27,
+    "glyph": "Ы",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 28,
+    "glyph": "Ш",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 29,
+    "glyph": "Щ",
+    "logical_w": 11,
+    "tex_w": 44,
+    "bbox": [
+      3,
+      6,
+      41,
+      43
+    ],
+    "bbox_w": 38,
+    "bbox_h": 37
+  },
+  {
+    "slot": 30,
+    "glyph": "?",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      7,
+      21,
+      20,
+      43
+    ],
+    "bbox_w": 13,
+    "bbox_h": 22
+  },
+  {
+    "slot": 31,
+    "glyph": "Л",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 32,
+    "glyph": "А",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 38
+  },
+  {
+    "slot": 33,
+    "glyph": "В",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 34,
+    "glyph": "С",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      1,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 29,
+    "bbox_h": 37
+  },
+  {
+    "slot": 35,
+    "glyph": "Б",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 36,
+    "glyph": "Е",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 37,
+    "glyph": "Э",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      1,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 29,
+    "bbox_h": 37
+  },
+  {
+    "slot": 38,
+    "glyph": "Д",
+    "logical_w": 9,
+    "tex_w": 36,
+    "bbox": [
+      2,
+      6,
+      34,
+      43
+    ],
+    "bbox_w": 32,
+    "bbox_h": 37
+  },
+  {
+    "slot": 39,
+    "glyph": "Н",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 40,
+    "glyph": "Ь",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 41,
+    "glyph": "Г",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 24,
+    "bbox_h": 37
+  },
+  {
+    "slot": 42,
+    "glyph": "К",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 43,
+    "glyph": "Л",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 44,
+    "glyph": "М",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 45,
+    "glyph": "Ж",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 46,
+    "glyph": "О",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      1,
+      4,
+      30,
+      42
+    ],
+    "bbox_w": 29,
+    "bbox_h": 38
+  },
+  {
+    "slot": 47,
+    "glyph": "Р",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      3,
+      6,
+      28,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 48,
+    "glyph": "Ю",
+    "logical_w": 11,
+    "tex_w": 44,
+    "bbox": [
+      3,
+      6,
+      41,
+      43
+    ],
+    "bbox_w": 38,
+    "bbox_h": 37
+  },
+  {
+    "slot": 49,
+    "glyph": "И",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 38
+  },
+  {
+    "slot": 50,
+    "glyph": "Й",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 51,
+    "glyph": "Т",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 24,
+    "bbox_h": 37
+  },
+  {
+    "slot": 52,
+    "glyph": "Л",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 53,
+    "glyph": "П",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 54,
+    "glyph": "Щ",
+    "logical_w": 11,
+    "tex_w": 44,
+    "bbox": [
+      3,
+      6,
+      41,
+      43
+    ],
+    "bbox_w": 38,
+    "bbox_h": 37
+  },
+  {
+    "slot": 55,
+    "glyph": "Х",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 56,
+    "glyph": "У",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 57,
+    "glyph": "Z",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 58,
+    "glyph": "Б",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 59,
+    "glyph": "Ф",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 60,
+    "glyph": "И",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 38
+  },
+  {
+    "slot": 61,
+    "glyph": "Ж",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 62,
+    "glyph": "З",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 63,
+    "glyph": "Д",
+    "logical_w": 9,
+    "tex_w": 36,
+    "bbox": [
+      2,
+      6,
+      34,
+      43
+    ],
+    "bbox_w": 32,
+    "bbox_h": 37
+  },
+  {
+    "slot": 64,
+    "glyph": "С",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      1,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 29,
+    "bbox_h": 37
+  },
+  {
+    "slot": 65,
+    "glyph": "Ё",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      2,
+      26,
+      42
+    ],
+    "bbox_w": 25,
+    "bbox_h": 40
+  },
+  {
+    "slot": 66,
+    "glyph": "Ь",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 25,
+    "bbox_h": 37
+  },
+  {
+    "slot": 67,
+    "glyph": "Ё",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      1,
+      2,
+      26,
+      42
+    ],
+    "bbox_w": 25,
+    "bbox_h": 40
+  },
+  {
+    "slot": 68,
+    "glyph": "Ж",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  },
+  {
+    "slot": 69,
+    "glyph": "Г",
+    "logical_w": 7,
+    "tex_w": 28,
+    "bbox": [
+      2,
+      6,
+      26,
+      43
+    ],
+    "bbox_w": 24,
+    "bbox_h": 37
+  },
+  {
+    "slot": 70,
+    "glyph": "Л",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 71,
+    "glyph": "Ч",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 72,
+    "glyph": "Й",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      5,
+      30,
+      42
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 73,
+    "glyph": "П",
+    "logical_w": 8,
+    "tex_w": 32,
+    "bbox": [
+      2,
+      6,
+      30,
+      43
+    ],
+    "bbox_w": 28,
+    "bbox_h": 37
+  },
+  {
+    "slot": 74,
+    "glyph": "Ы",
+    "logical_w": 10,
+    "tex_w": 40,
+    "bbox": [
+      2,
+      6,
+      37,
+      43
+    ],
+    "bbox_w": 35,
+    "bbox_h": 37
+  }
+]
